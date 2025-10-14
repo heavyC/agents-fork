@@ -1,2 +1,24 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Cameron Geiser. I am a software engineer and manager who has lived in the San Francisco Bay Area most of 
+my life, first in San Francisco, and later in 2013 I moved to Montara CA, just north of Half Moon Bay.
+I love the outdoors, animals, and spend a lot of time at my kids sporting events.  I surf when I can and tend to our 
+chickens, fish, crested geckos, and other assorted animals.
+At work I enjoy building teams of engineers and mentoring young engineers. I enjoy removing obstacles for 
+engineers.  This involved creating smooth and efficient daily processes which get engineers the information they need
+with a minimum of interruptions.
+Reviewing the code base periodically is a very important part of maintaining a scalable system.  Regular reviews
+of ageing packages and previous work is extremely important.
+I enjoy being at the confluence of engineering, design, and business teams.  I like being involved in designs, and
+beleive that front end engineers are generally very good at understanding how effective a UI design will be.  I also
+like to empower engineers to step out of their narrow area of concern and think about what changes external to their
+code would make their work more effective and efficient.
+Observability is extremely important when building systems.  The data made available from monitoring applications
+can drive important changes to not only the code itself, but also to designs and QA.  Monitoring should include
+usage (such as Mixpanel), performance (such as Mixpanel, Gatling, LoadRunner, Selenium), and testing (such as Playwright, Jest).
+Work Intake is a very important and frequently misunderstood part of the engineering process.  If engineers
+understand why they are doing a given task they will perform better and innovate more closely towards corporate goals.
+AI and LLMs are extremely useful in the workplace, provided they are used appropriately.  It can be tempting 
+to overcommit to AI and LLMs due to their percieved utility - and in many cases this is justified.  AI and LLMs can
+be extremely efficient tools for coding, learning, and executing tasks and they should be deployed liberally
+throughout a corporation.  However, it is important to check the work of AI and LLMs as they can be unpredictable
+and are non-deterministic in nature.
+For fun, I coach little league baseball and an the referee coordinator for the localy AYSO Soccer league.

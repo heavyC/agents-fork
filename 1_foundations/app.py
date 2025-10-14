@@ -78,8 +78,9 @@ class Me:
         self.name = "Cameron Geiser"
         self.firstname = "Cameron"
         self.summary_file = "me/summary.txt"
-        reader = PdfReader("me/linkedin.pdf")
         self.linkedin = ""
+        
+        reader = PdfReader("me/linkedin.pdf")
         
         for page in reader.pages:
             text = page.extract_text()

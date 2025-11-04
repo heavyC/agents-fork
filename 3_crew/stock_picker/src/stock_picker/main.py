@@ -14,7 +14,7 @@ def run():
     Run the research crew.
     """
     inputs = {
-        'sector': 'Technology',
+        'sector': 'consumer staples',
         "current_date": str(datetime.now())
     }
 
